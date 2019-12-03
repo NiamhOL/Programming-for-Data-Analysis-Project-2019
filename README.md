@@ -1,7 +1,18 @@
-# Programming-for-Data-Analysis-Project-2019
-Programming for Data Analysis Project 2019
+# Programming-for-Data-Analysis-Project-2019 #
+# Student: Niamh O'Leary #
+# ID: G00376339 #
 
 ## Introduction ##
+
+Test datasets are small contrived problems that allow you to test and debug your algorithms and test harness. They are also useful for better understanding the behavior of algorithms in response to changes in hyperparameters.
+
+Below are some desirable properties of test datasets:
+
+They can be generated quickly and easily.
+They contain “known” or “understood” outcomes for comparison with predictions.
+They are stochastic, allowing random variations on the same problem each time they are generated.
+They are small and easily visualized in two dimensions.
+They can be scaled up trivially.[1]
 
 ## Problem Statement ##
 
@@ -27,7 +38,8 @@ but the main task in this project is to create a synthesised data set.
 
 ## Getting started ##
 
-Download and install Python and Anaconda All files associated with this project are available at https://github.com/NiamhOL/Programming-for-Data-Analysis-Project-2019
+Download and install Python and Anaconda 
+All files associated with this project are available at https://github.com/NiamhOL/Programming-for-Data-Analysis-Project-2019
 
 ## Packages used in this project ##
 
@@ -42,3 +54,8 @@ iPython https://ipython.org/ - it an interactive command-line terminal for Pytho
 Numpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
 
 Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations and narriative text
+
+## References ##
+1. https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/
+
+## Biblography ##
