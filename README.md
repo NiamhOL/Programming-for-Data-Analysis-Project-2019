@@ -59,3 +59,8 @@ Jupyter Notebook https://jupyter.org/ - is an open-source web application that a
 1. https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/
 
 ## Biblography ##
+1. Healthly Ireland Webpage, Government of Ireland https://www.gov.ie/en/collection/231c02-healthy-ireland-survey-wave/
+2. Healthy Ireland Summary Report 2019 https://assets.gov.ie/41141/e5d6fea3a59a4720b081893e11fe299e.pdf
+3. Statistics Offics https://www.cso.ie/en/interactivezone/statisticsexplained/birthsdeathsandmarriages/lifeexpectancytables/
+4. https://datacamp.com/courses/statistical-simulation-in-python
+5. https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/
