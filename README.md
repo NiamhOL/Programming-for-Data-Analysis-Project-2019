@@ -64,3 +64,5 @@ Jupyter Notebook https://jupyter.org/ - is an open-source web application that a
 3. Statistics Offics https://www.cso.ie/en/interactivezone/statisticsexplained/birthsdeathsandmarriages/lifeexpectancytables/
 4. https://datacamp.com/courses/statistical-simulation-in-python
 5. https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/
+6. https://github.com/richardfeeney7/Programming-for-Data-Analysis-Project/blob/master/%20Programming-for-Data-Analysis-Project.ipynb
+7. https://github.com/dermotkel/programming-project/blob/master/Programming%20Project.ipynb
