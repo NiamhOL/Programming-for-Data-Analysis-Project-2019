@@ -58,11 +58,19 @@ Jupyter Notebook https://jupyter.org/ - is an open-source web application that a
 ## References ##
 1. https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/
 
+## Github Respositories used as reference ## 
+1. Feeney. R. (2018), Module - Programming for Data Analysis, https://github.com/richardfeeney7/Programming-for-Data-Analysis-Project/blob/master/%20Programming-for-Data-Analysis-Project.ipynb
+2. Kelleher, D. (2018), Module - Programming for Data Analysis https://github.com/dermotkel/programming-project/blob/master/Programming%20Project.ipynb
+3. McLain, S. (2018),Module - Programming for Data Analysis https://github.com/SimonMcLain/GMIT-Programming-for-Data-Analysis-Project/blob/master/PDA%20Project%202018.ipynb
+4. schnor, N.P.(2018),Module - Programming for Data Analysis  https://github.com/npradaschnor/Programming-for-Data-Analysis-Project2018
+5. SarahKel (2018),Module - Programming for Data Analysis https://github.com/Sarahkel/Programming_Project_2018-Synthesising-an-IQ-dataset-with-Python/blob/master/Synthesising%20a%20dataset%20on%20IQ%20using%20Python.ipynb
+6. Lawless, M. (2018),Module - Programming for Data Analysis   https://github.com/MarianneLawless/Programming-DA-Project/blob/master/Programming%20for%20Data%20Analysis%20Project%202018.ipynb
+7. Duffy, P. (2018), Module - Programming for Data Analysis   https://github.com/paulacduffy/simulatedatasetproject/blob/master/Simulated%20data%20set%20using%20numpy.random.ipynb
+
 ## Biblography ##
 1. Healthly Ireland Webpage, Government of Ireland https://www.gov.ie/en/collection/231c02-healthy-ireland-survey-wave/
 2. Healthy Ireland Summary Report 2019 https://assets.gov.ie/41141/e5d6fea3a59a4720b081893e11fe299e.pdf
 3. Statistics Offics https://www.cso.ie/en/interactivezone/statisticsexplained/birthsdeathsandmarriages/lifeexpectancytables/
 4. https://datacamp.com/courses/statistical-simulation-in-python
 5. https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/
-6. https://github.com/richardfeeney7/Programming-for-Data-Analysis-Project/blob/master/%20Programming-for-Data-Analysis-Project.ipynb
-7. https://github.com/dermotkel/programming-project/blob/master/Programming%20Project.ipynb
+
