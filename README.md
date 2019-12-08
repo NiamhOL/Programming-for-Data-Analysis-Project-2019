@@ -56,7 +56,7 @@ Numpy http://www.numpy.org/ - is the fundamental package for scientific computin
 Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations and narriative text
 
 ## References ##
-1. https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/
+1. Brownlee J. (2018), "How to Generate Test Datasets in Python with scikit-learn", published online at Machine Learning Masteryhttps://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/
 
 ## Github Respositories used as reference ## 
 1. Feeney. R. (2018), Module - Programming for Data Analysis, https://github.com/richardfeeney7/Programming-for-Data-Analysis-Project/blob/master/%20Programming-for-Data-Analysis-Project.ipynb
