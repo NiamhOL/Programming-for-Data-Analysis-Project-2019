@@ -71,7 +71,7 @@ Jupyter Notebook https://jupyter.org/ - is an open-source web application that a
 1. Healthly Ireland Webpage, Government of Ireland https://www.gov.ie/en/collection/231c02-healthy-ireland-survey-wave/
 2. Healthy Ireland Summary Report 2019 https://assets.gov.ie/41141/e5d6fea3a59a4720b081893e11fe299e.pdf
 3. Statistics Offics https://www.cso.ie/en/interactivezone/statisticsexplained/birthsdeathsandmarriages/lifeexpectancytables/
-4. https://datacamp.com/courses/statistical-simulation-in-python
-5. https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/
+4. DataCamp (2019), online course in Statistical Simulation in Python   https://datacamp.com/courses/statistical-simulation-in-python
+5. Brownlee J. (2018), "How to Generate Test Datasets in Python with scikit-learn", published online at Machine Learning Mastery,  https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/
 
 
