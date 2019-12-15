@@ -41,6 +41,14 @@ but the main task in this project is to create a synthesised data set.
 Download and install Python and Anaconda 
 All files associated with this project are available at https://github.com/NiamhOL/Programming-for-Data-Analysis-Project-2019
 
+## Contents of GitHub Respository ##
+The GitHub Respository associated with this project contains the following:
+
+Healthy Ireland Survery summary results, to give an background to the data points used to simulated the dataset.
+ReadMe file giving an overview of the project and the project outline.
+Jupyter Notebook outlining the analysis of the tips.csv database containing python code and description of the analysis.
+License.
+
 ## Packages used in this project ##
 
 The following packages were used to run statistical analysis and draw grpahs for this project.
